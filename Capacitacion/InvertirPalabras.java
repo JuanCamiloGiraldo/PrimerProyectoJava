@@ -1,4 +1,4 @@
-package InvertirPalabras;
+package capacitacion;
 import java.util.Scanner;
 
 public class InvertirPalabras {
