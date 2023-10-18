@@ -4,6 +4,7 @@ public class suma {
     public static void main(String args[]) {
         /* se importa Scanner, y se asigna la función Scanner a una variable, 
         System.in registra los valores ingresados por teclado*/
+        
         Scanner entrada = new Scanner(System.in); 
         System.out.println("Escribe el primer valor");
         /*Se asigna una nueva variable, pero esta vez no es a la función, sino que es a la
