@@ -62,4 +62,12 @@ public class LLmain {
 
         }
     }
+
+//setter y getter
+    public int getTipodeRopa(){
+        return TipodeRopa;
+    }
+    public void setTipodeRopa(int TipodeRopa){
+        this.TipodeRopa= TipodeRopa;
+    }
 }

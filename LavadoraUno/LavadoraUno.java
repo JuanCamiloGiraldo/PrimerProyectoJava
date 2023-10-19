@@ -13,6 +13,8 @@ public class LavadoraUno {
         System.out.println("¿Cuántos kilos de ropa?");
         int kilos = entrada.nextInt();
         LLmain mensajero = new LLmain(TipodeRopa, kilos);
+        mensajero.setTipodeRopa(2);
         mensajero.Ciclofinalizado();
+        
     }
 }
